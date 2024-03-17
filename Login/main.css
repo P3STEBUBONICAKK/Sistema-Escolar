@@ -166,7 +166,9 @@ iframe {
     text-transform: uppercase;
     text-align: center;
     width: 100%;
-    display: block
+    display: block;
+    letter-spacing: 5px;
+    
 }
 
 .wrap-input100 {
